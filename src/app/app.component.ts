@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'todo-app';
+  result = "result-tab";
+  counter = 1;
 }
